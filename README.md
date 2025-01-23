@@ -21,7 +21,7 @@ A list of packages and their versions shipped with recent ArcGIS Pro releases. [
 [![ArcGIS-Pro-Python-Distribution-By-Release.pdf](static/ArcGIS-Pro-Python-Distribution-By-Release.png)](ArcGIS-Pro-Python-Distribution-By-Release.pdf)
 
 
-## Software issues, questions and discussions
+## Software issues, questions, and discussions
 
  - The primary way to report **technical issues** continues to be through [Esri Technical Support](https://support.esri.com/en-us/contact).
  - **Ideas and enhancements** can be submitted on the [ArcGIS Ideas](https://community.esri.com/t5/custom/page/page-id/arcgis-ideas) site, or through Esri Technical Support.
