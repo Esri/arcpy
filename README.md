@@ -5,21 +5,22 @@ Resources and ideas for ArcPy and Python in ArcGIS.
 
 <img align="left" src="static/arcpy.png">
 
-ArcPy is a comprehensive and powerful library for geographic data analysis, data conversion, data management, map automation. It is integrated into products like ArcGIS Pro and Enterprise. ArcPy is organized into 55 modules and 2100+ functions to the related [Geoprocessing tools](https://pro.arcgis.com/en/pro-app/latest/help/analysis/geoprocessing/basics/what-is-geoprocessing-.htm), see [this quick tour](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/a-quick-tour-of-arcpy.htm) of it's functionality.
+ArcPy is a comprehensive and powerful library for geographic data analysis, data conversion, data management, map automation. It is integrated into products like ArcGIS Pro and Enterprise. ArcPy is organized into 55 modules and 2100+ functions to the related [Geoprocessing tools](https://pro.arcgis.com/en/pro-app/latest/help/analysis/geoprocessing/basics/what-is-geoprocessing-.htm), see [this quick tour](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/a-quick-tour-of-arcpy.htm) of its functionality.
 
 ["Python is an interpreted, object-oriented, high-level programming language with dynamic semantics."](https://www.python.org/doc/essays/blurb/). It is included with deployment of many ArcGIS products as the primary language for the automation workflows and analysis.
 
 ## ArcPy cheatsheet
-Cheatsheet for the ArcPy library. [Download](ArcPy-Cheatsheet.pdf?raw=true)
+Cheatsheet for the ArcPy library. [Download](docs/ArcPy-Cheatsheet.pdf?raw=true)
 
-[![arcpy-cheatsheet.pdf](static/arcpy-cheatsheet.png)](ArcPy-Cheatsheet.pdf)
+[![docs/arcpy-cheatsheet.pdf](static/arcpy-cheatsheet.png)](docs/ArcPy-Cheatsheet.pdf)
 
 
 ## ArcGIS Pro Python distribution by release
-A list of packages and their versions shipped with recent ArcGIS Pro releases. [Download](ArcGIS-Pro-Python-Distribution-By-Release.pdf?raw=true)
+A list of packages and their versions shipped with recent ArcGIS Pro releases. [Download](docs/ArcGIS-Pro-Python-Distribution-By-Release.pdf?raw=true)
 
-[![ArcGIS-Pro-Python-Distribution-By-Release.pdf](static/ArcGIS-Pro-Python-Distribution-By-Release.png)](ArcGIS-Pro-Python-Distribution-By-Release.pdf)
+[![docs/ArcGIS-Pro-Python-Distribution-By-Release.pdf](static/ArcGIS-Pro-Python-Distribution-By-Release.png)](docs/ArcGIS-Pro-Python-Distribution-By-Release.pdf)
 
+This data is also available as [docs/arcgis-dist.json](docs/arcgis-dist.json)
 
 ## Software issues, questions, and discussions
 
