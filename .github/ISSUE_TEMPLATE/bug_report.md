@@ -9,7 +9,7 @@ assignees: ''
 
 <!-- HOLD UP!
 
-Please make sure to review https://github.com/ArcGIS/arcpy/?tab=readme-ov-file#software-issues-questions-and-ideas before submitting issues.
+Please make sure to review "software issues questions and ideas" section of the README.md before submitting
 
 -->
 
