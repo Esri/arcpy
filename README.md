@@ -12,8 +12,7 @@ ArcPy is a comprehensive and powerful library for geographic data analysis, data
 ## ArcPy cheatsheet
 Cheatsheet for the ArcPy library. [Download](docs/ArcPy-Cheatsheet.pdf?raw=true)
 
-[![docs/arcpy-cheatsheet.pdf](static/arcpy-cheatsheet.png)](docs/ArcPy-Cheatsheet.pdf)
-
+<img width="1600" height="2128" alt="ArcPy-Cheatsheet" src="https://github.com/user-attachments/assets/f6830ed8-6deb-454f-804d-29d9eb0b077b" />
 
 ## ArcGIS Pro Python distribution by release
 A list of packages and their versions shipped with recent ArcGIS Pro releases. [Download](docs/ArcGIS-Pro-Python-Distribution-By-Release.pdf?raw=true)
