@@ -21,7 +21,13 @@ A list of packages and their versions shipped with recent ArcGIS Pro releases. [
 
 This data is also available as [docs/arcgis-dist.json](docs/arcgis-dist.json)
 
-## Software issues, questions, and discussions
+## Debugging
+
+Debugging script tools for ArcGIS Pro is supported with the `debugpy` debug adapter. Easily attach to ArcGIS Pro using the [ArcGIS Pro Debugger extension for Visual Studio Code (VSC)](https://marketplace.visualstudio.com/items?itemName=Esri.arcgis-pro-debugger), available on the VSC Marketplace, or Visual Studio's (VS) standard debug workflow. 
+
+[Read the documentation to learn more...](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/debugging-python-code.htm)
+
+## Software issue questions and discussions
 
  - The primary way to report **technical issues** continues to be through [Esri Technical Support](https://support.esri.com/en-us/contact).
  - **Ideas and enhancements** can be submitted on the [ArcGIS Ideas](https://community.esri.com/t5/custom/page/page-id/arcgis-ideas) site, or through Esri Technical Support.
