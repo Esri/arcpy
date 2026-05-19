@@ -19,7 +19,7 @@ A list of packages and their versions shipped with recent ArcGIS Pro releases. [
 
 [![docs/ArcGIS-Pro-Python-Distribution-By-Release.pdf](static/ArcGIS-Pro-Python-Distribution-By-Release.png)](docs/ArcGIS-Pro-Python-Distribution-By-Release.pdf)
 
-This data is also available as [docs/arcgis-dist.json](docs/arcgis-dist.json)
+This data is also available as JSON at [docs/arcgis-dist.json](docs/arcgis-dist.json)
 
 ## Debugging
 
